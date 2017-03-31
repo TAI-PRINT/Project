@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## TAI-Print-Service
 
-You can use the [editor on GitHub](https://github.com/TAI-PRINT/Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Order your own Grandnuggerbabyboi right now and get a 20% off coupon for your next order!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We provide a vast amount of services to create the best experience for our Grandnuggerbabyboi-VIP Members.
 
-### Markdown
+### Guaranteed Satisfaction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Not only do we provide the best Grandnuggers but also the most well trained in the entire world!
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Order
+## The Grandnugger
+### NOW
 
-- Bulleted
-- List
+- cheap
+- efficient
 
-1. Numbered
-2. List
+1. FREE UPDATES
+2. 24/7
 
-**Bold** and _Italic_ and `Code` text
+**Why didn't you** _order your Grandnuggerbabyboi_ `yet?` 
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see our [amazon store](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TAI-PRINT/Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Custom Grandnuggers
+For custom orders and specialized models please inquire our business email under: grandnugger_man_babyshop@gmail.com
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with your Grandnugger ? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
